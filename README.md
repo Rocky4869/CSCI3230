@@ -1,3 +1,3 @@
 # CSCI3230
 
-This is a Database course (written in Java) in CUHK 🤪
+This is a Artificial Intelligence course (written in Python) in CUHK 🤪
